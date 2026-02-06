@@ -5,7 +5,7 @@ Mahasiswa Informatika tingkat akhir di Universitas Siliwangi. Memiliki pengalama
 ---
 ## Experience
 
-- 🎬 **Cohort of ML Engineer, PT Dicoding x DBS Foundation**
+-  **Cohort of ML Engineer, PT Dicoding x DBS Foundation**
   - Memproses, menganalisis, memvisualisasikan data
   - Membangun end-to-end machine learning pipelines menggunakan Python, scikit-learn, and TensorFlow untuk menyelesaikan permasalahan dunia nyata.
   - Mendeploy model menggunakan Streamlit dan FastAPI, memungkinkan aplikasi ML yang mudah diakses dan interaktif.
@@ -15,7 +15,7 @@ Mahasiswa Informatika tingkat akhir di Universitas Siliwangi. Memiliki pengalama
 ---
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
-## 🚀 Projects
+##  Projects
 Ini merupakan beberapa project saya:
 
 - **E-Syarat**
@@ -35,7 +35,7 @@ Ini merupakan beberapa project saya:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Languages**: Python, SQL
 - **Libraries & Frameworks**: TensorFlow, Scikit-learn, Pandas, NumPy, OpenCV
@@ -44,7 +44,7 @@ Ini merupakan beberapa project saya:
 
 ---
 
-## 📈 My GitHub Stats
+##  My GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meio047&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meio047&layout=compact&theme=github_dark)
